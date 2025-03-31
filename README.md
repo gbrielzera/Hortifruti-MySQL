@@ -1,11 +1,12 @@
 # Hortifruti-MySQL
 
-Dependências:
+# Dependências:
 
 npm install mysql2 prompt-sync
+
 npm install --save-dev typescript @types/node @types/prompt-sync (Talvez não seja necessário dependendo do seu ambiente)
 
-Passos para compilar e executar:
+# Passos para compilar e executar:
 
 Executar o banco de dados em SQL
 
